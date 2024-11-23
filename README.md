@@ -15,4 +15,8 @@ A simple, progressive web application for tracking daily habits, built with Next
 1. Clone the repository
 2. Install dependencies:
 
+## Environment Variables
 
+To run this project, you will need to add the following environment variables to your .env file:
+
+1. Copy the `env.example` file to a new file named `.env`:
